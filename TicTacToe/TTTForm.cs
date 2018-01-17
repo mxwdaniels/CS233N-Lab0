@@ -372,7 +372,7 @@ namespace TicTacToe
                 resultLabel.Text = "It's a tie.";
                 return;
             }
-
+            //full computer code is under this method
             MakeComputerMove();
 
         }
